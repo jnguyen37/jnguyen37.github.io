@@ -1812,6 +1812,7 @@ div#preloader {
 .footer-content {
   display: block;
   overflow: hidden;
+  float:right;
 }
 
 .popular-tag ul li a:hover, .footer-icons ul li a:hover {
